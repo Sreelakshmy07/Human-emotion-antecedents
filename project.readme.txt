@@ -1,0 +1,41 @@
+…………………………………………………………….Python code………………………………………………………………………
+
+Implemented in :  Jupyter notebook
+Version                :  Python 3.9.13 (main,  Aug 25 2022,  23:51:50)  [MSC v.1916 64 bit (AMD64)
+File name            :  LogisticRegression and SVM
+
+…………………………. Open Jupyter notebook
+…………………………. Go to Files
+…………………………. Open LogisticRegression and SVM.ipynb 
+………………………….  Run code
+………………………….  Quit session
+
+Implemented in :  Jupyter notebook
+Version                :  Python 3.9.13 (main,  Aug 25 2022,  23:51:50)  [MSC v.1916 64 bit (AMD64)
+File name            :  Naive Bayes
+
+…………………………. Open Jupyter notebook
+…………………………. Go to Files
+…………………………. Open Naive Bayes.ipynb
+…………………………. Run code
+…………………………. Quit session
+
+
+…………………………………………………………………………………………………………………………………………………………
+
+
+………………………………………………….Python codes……………………………………………………………………………
+
+Implemented in       :  Google Collab
+Version                      :  Python 3.8
+File name                  :  SimpleRNN
+
+…………………………. Open Google Colab
+…………………………. Go to Files
+…………………………. Open SimpleRNN.ipynb
+…………………………. Run code
+…………………………. Quit session
+
+
+
+……………………………………………………………………………………………………………………………………………………………
